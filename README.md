@@ -25,7 +25,7 @@ I love code!!
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/sumankumarsandiri"><img src="https://github-readme-stats.vercel.app/api?username=sumankumarsandiri&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=14b8a6&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="sumankumarsandiri's GitHub stats" /></a>
-<span>
+
 <a href="http://www.github.com/sumankumarsandiri"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sumankumarsandiri&stroke=14b8a6&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=14b8a6&currStreakLabel=a855f7&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-</span>
+
 <a href="https://github.com/sumankumarsandiri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumankumarsandiri&langs_count=10&title_color=a855f7&text_color=14b8a6&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
