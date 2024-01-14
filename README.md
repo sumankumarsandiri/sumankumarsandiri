@@ -17,7 +17,7 @@ I love code!!
 
 * 🌍  I'm based in Karimnagar
 * 🧠  I'm learning JavaScript, React js
-* 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dante-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sumankumar-sandiri-37a5ba285)
+* 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Sumankumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sumankumar-sandiri-37a5ba285)
 * 🌱 Focusing on becoming a better developer
 
 ### Skills
