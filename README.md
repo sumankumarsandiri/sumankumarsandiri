@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="500"/>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com//in/sumankumar-sandiri-37a5ba285">
+    <img src="https://shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a/>
+</p>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sumankumar Sandiri
 ==========================================================================================================================================
 
@@ -7,9 +16,9 @@ A Passionate Front-End Developer from Karimangar
 I love code!!
 
 * 🌍  I'm based in Karimnagar
-* ✉️  You can contact me at [sandirisuman3@gmail.com](mailto:sandirisuman3@gmail.com)
 * 🧠  I'm learning JavaScript, React js
-* 🤝  I'm open to collaborating on web-Projects
+* 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dante-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sumankumar-sandiri-37a5ba285)
+* 🌱 Focusing on becoming a better developer
 
 ### Skills
 
